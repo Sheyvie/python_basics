@@ -11,4 +11,3 @@ x = {'Name': ['Rose','John', 'Jane', 'Mary'], 'ID': [1, 2, 3, 4], 'Department': 
 df = pd.DataFrame(x)
 
 #display the result df
-df
